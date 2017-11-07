@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Hotel California Gamasa",
+        "stars": 2,
+        "location": "Gamasa",
+        "emptyRooms": 1
+    },
+    {
+        "name": "Hotel California Sokhna",
+        "stars": 3,
+        "location": "Sokhna",
+        "emptyRooms": 2
+    },
+    {
+        "name": "Hotel California Sahel",
+        "stars": 4,
+        "location": "Sahel",
+        "emptyRooms": 4
+    },
+    {
+        "name": "Hotel California Cairo",
+        "stars": 4,
+        "location": "Cairo",
+        "emptyRooms": 5
+    },
+    {
+        "name": "Hotel California Alex",
+        "stars": 3,
+        "location": "Alex",
+        "emptyRooms": 6
+    },
+    {
+        "name": "Hotel California Hacienda",
+        "stars": 6,
+        "location": "Hacienda",
+        "emptyRooms": 7
+    },
+    {
+        "name": "Hotel California Marasi",
+        "stars": 7,
+        "location": "Marasi",
+        "emptyRooms": 8
+    },
+    {
+        "name": "Hotel California Diplo",
+        "stars": 7,
+        "location": "Diplo",
+        "emptyRooms": 9
+    },
+    {
+        "name": "Hotel California Ramsis",
+        "stars": 1,
+        "location": "Ramsis",
+        "emptyRooms": 2
+    },
+    {
+        "name": "Hotel California Mohandeseen",
+        "stars": 5,
+        "location": "Mohandeseen",
+        "emptyRooms": 3
+    }
+]

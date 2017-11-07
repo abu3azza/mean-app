@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/abu3azza/mean-app#readme",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "express": "^4.16.2",
     "git": "^0.1.5"
   },
