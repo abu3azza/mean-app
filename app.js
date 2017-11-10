@@ -4,12 +4,10 @@ var path = require('path');
 var routes = require('./api/routes');
 var bodyParser = require('body-parser');
 
-//======== Setting up the port ========
-// app.listen(3001);
+// ======== Setting up the port ========
 
 // ===========Another way is========== 
 app.set('port', 3002);
-
 //============ Logging (chain filters)==============
 app.use(function (req, res, next) {
     loggingFunction(req, res, next);

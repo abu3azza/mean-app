@@ -1,4 +1,4 @@
-var hotelsData = require('../../hotel-data.json');
+var hotelsData = require('../data/hotel-data.json');
 
 module.exports.getAllHotels = function (req, res) {
     resultArray = hotelsData;

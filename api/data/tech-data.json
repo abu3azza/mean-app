@@ -1,0 +1,9 @@
+[
+    {
+        "_id": {
+            "$oid": "5a04377a7ffe60dce174767e"
+        },
+        "name": "mina",
+        "role": "dbAdmin"
+    }
+]
